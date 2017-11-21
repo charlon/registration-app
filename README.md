@@ -1,10 +1,9 @@
 # registration-app
-Making a registration app in ReactJS.
+Making a registration app in ReactJS. This app was created using Create React App.
 
 ### Prerequisites
 * Node
 * ReactJS
-* Create-React-App (used to scaffold this application)
 
 ### Installation
 
