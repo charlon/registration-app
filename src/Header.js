@@ -26,8 +26,8 @@ const Header = () => (
             <a className="nav-link" href="/track">Track</a>
           </li>
         </ul>
-        <div className="form-inline my-2 my-lg-0">
-            <a href="/">Sign in</a>
+        <div className="navbar-nav my-2 my-lg-0">
+            <a className="nav-link" href="/">Sign in</a>
         </div>
       </div>
     </nav>
