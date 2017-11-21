@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
 
 // The Header creates links that can be used to navigate
 // between routes.
@@ -28,7 +27,7 @@ const Header = () => (
           </li>
         </ul>
         <div className="form-inline my-2 my-lg-0">
-            <a href="#">Sign in</a>
+            <a href="/">Sign in</a>
         </div>
       </div>
     </nav>
