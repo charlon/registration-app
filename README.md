@@ -10,7 +10,7 @@ Making a registration app in ReactJS. This app was created using Create React Ap
 Clone this repository:
 ```
   $ git clone https://github.com/charlon/registration-app.git
-  $ cd registration-react
+  $ cd registration-app
 ```
 
 Install Node dependencies:
