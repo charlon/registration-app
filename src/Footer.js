@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 // between routes.
 const Footer = () => (
      <footer>
-     <div class="container"><p>&copy; Company 2017</p></div>
+     <div className="container"><p>&copy; Company 2017</p></div>
   </footer>
 )
 
