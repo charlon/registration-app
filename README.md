@@ -10,8 +10,8 @@ Making a registration app!
 
 Clone this repository:
 ```
-  $ git clone https://github.com/charlon/regiton-react.git
-  $ cd regitron-react
+  $ git clone https://github.com/charlon/registration-react.git
+  $ cd registration-react
 ```
 
 Install Node dependencies:
