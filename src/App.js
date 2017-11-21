@@ -1,20 +1,14 @@
 import React, { Component } from 'react';
 import { Grid, Navbar, Jumbotron, Button } from 'react-bootstrap';
-import { BrowserRouter as Router, Route } from 'react-router-dom';
 
-const Home = (props) => {
-    console.log(props)
-    return <h1>Home</h1>
-}
+import Header from './Header'
+import Main from './Main'
 
 const App = () => (
-    <Router>
-        <div>
-            <Route exact path="/" component={Home} />
-            {/*}<Route path="/about" render={() => <h1>About</h1>} />*/}
-            <Route path="/about" children={({match}) => match && <h1>About</h1>} />
-        </div>
-    </Router>
+    <div>
+    <Header />
+    <Main />
+  </div>
 );
 
 
