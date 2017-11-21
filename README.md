@@ -1,5 +1,5 @@
-# registration-react
-Making a registration app!
+# registration-app
+Making a registration app in ReactJS.
 
 ### Prerequisites
 * Node
@@ -10,7 +10,7 @@ Making a registration app!
 
 Clone this repository:
 ```
-  $ git clone https://github.com/charlon/registration-react.git
+  $ git clone https://github.com/charlon/registration-app.git
   $ cd registration-react
 ```
 
