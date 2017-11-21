@@ -7,10 +7,10 @@ import Footer from './Footer'
 
 const App = () => (
     <div>
-    <Header />
-    <Main />
-    <Footer />
-  </div>
+        <Header />
+        <Main />
+        <Footer />
+    </div>
 );
 
 
