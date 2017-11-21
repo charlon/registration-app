@@ -1,4 +1,4 @@
-# regitron-react
+# registration-react
 Making a registration app!
 
 ### Prerequisites
