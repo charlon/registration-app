@@ -8,12 +8,9 @@ const Courses = () => (
         <h1 className="display-3">Courses</h1>
             <p className="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
             <hr className="my-4" />
-            <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
-            <p className="lead">
             <div class="input-group input-group-lg">
             <input type="text" class="form-control" placeholder="Find courses" aria-label="Username" aria-describedby="sizing-addon1" />
             </div>
-            </p>
         </div>
       </div>
 
