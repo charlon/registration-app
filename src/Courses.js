@@ -19,17 +19,17 @@ const Courses = () => (
           <div className="col-md-4">
             <h2>Colleges, Schools and Programs</h2>
             <p>Explore courses by College metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-            <p><a className="btn btn-secondary" href="/" role="button">Find courses &raquo;</a></p>
+            <p><a className="btn btn-outline-secondary" href="/" role="button">Find courses &raquo;</a></p>
           </div>
           <div className="col-md-4">
             <h2>General Education</h2>
             <p>Find Courses and Register! Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-            <p><a className="btn btn-secondary" href="/courses" role="button">Connect with Adviser &raquo;</a></p>
+            <p><a className="btn btn-outline-secondary" href="/courses" role="button">Connect with Adviser &raquo;</a></p>
           </div>
           <div className="col-md-4">
             <h2>Archive</h2>
             <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-            <p><a className="btn btn-secondary" href="#" role="button">View Course Catalog &raquo;</a></p>
+            <p><a className="btn btn-outline-secondary" href="#" role="button">View Course Catalog &raquo;</a></p>
           </div>
         </div>
 
