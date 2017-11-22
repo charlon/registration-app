@@ -1,5 +1,5 @@
-# registration-app
-Making a registration app in ReactJS. This app was created using Create React App.
+# student-path
+A student degree planning and course registration app in ReactJS. This app was created using Create React App.
 
 ### Prerequisites
 * Node
@@ -9,8 +9,8 @@ Making a registration app in ReactJS. This app was created using Create React Ap
 
 Clone this repository:
 ```
-  $ git clone https://github.com/charlon/registration-app.git
-  $ cd registration-app
+  $ git clone https://github.com/charlon/student-path.git
+  $ cd student-path
 ```
 
 Install Node dependencies:
