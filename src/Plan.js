@@ -6,12 +6,11 @@ const Plan = () => (
       <div className="jumbotron">
         <div className="container">
         <h1 className="display-3">Plan</h1>
-            <p className="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+            <p className="lead">Use a template or develop your own plan to graduation.</p>
             <hr className="my-4" />
-            <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
-            <p className="lead">
-              <a className="btn btn-primary btn-lg" href="#" role="button">Explore Degree Templates</a>
-            </p>
+
+            <h2>Winter Quarter 2018</h2>
+            <p>You currently do not have anything planned. </p>
         </div>
       </div>
 
@@ -28,9 +27,9 @@ const Plan = () => (
             <p><a className="btn btn-secondary" href="/courses" role="button">Find Courses &raquo;</a></p>
           </div>
           <div className="col-md-4">
-            <h2>Advising</h2>
+            <h2>Degree Templates</h2>
             <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-            <p><a className="btn btn-secondary" href="#" role="button">Explore Advising &raquo;</a></p>
+            <p><a className="btn btn-secondary" href="#" role="button">Explore Degree Templates &raquo;</a></p>
           </div>
         </div>
 

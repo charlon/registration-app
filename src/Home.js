@@ -6,7 +6,7 @@ const Home = () => (
       <div className="jumbotron">
         <div className="container">
         <h1 className="display-3">Hello, netid!</h1>
-            <p className="lead">Your path to graduation starts here.</p>
+            <p className="lead">Your path to a degree starts here.</p>
             <hr className="my-4" />
             <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
             <p className="lead">
