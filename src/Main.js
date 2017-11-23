@@ -5,6 +5,7 @@ import Plan from './Plan'
 import Courses from './Courses'
 import Register from './Register'
 import Track from './Track'
+import Adviser from './Adviser'
 
 // The Main component renders one of the three provided
 // Routes (provided that one matches). Both the /roster
@@ -19,6 +20,7 @@ const Main = () => (
       <Route path='/courses' component={Courses}/>
       <Route path='/register' component={Register}/>
       <Route path='/track' component={Track}/>
+      <Route path='/adviser' component={Adviser}/>
     </Switch>
   </main>
 )

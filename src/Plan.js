@@ -28,9 +28,9 @@ const Plan = () => (
             <p><a className="btn btn-outline-secondary" href="#" role="button">Explore Degree Templates &raquo;</a></p>
           </div>
           <div className="col-md-4">
-            <h2>Advising</h2>
-            <p>Find Courses and Register! Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-            <p><a className="btn btn-outline-secondary" href="/courses" role="button">Connect with Adviser &raquo;</a></p>
+            <h2>Connections</h2>
+            <p>Connect your Plan with an Adviser and get useful information. Notes and Recommendations. Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+            <p><a className="btn btn-outline-secondary" href="/connections" role="button">Connect with your Adviser &raquo;</a></p>
           </div>
         </div>
 
