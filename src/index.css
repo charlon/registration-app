@@ -8,3 +8,7 @@ body {
 header .bg-dark { background-color: #4b2f83 !important; }
 
 header .navbar { font-weight: 300!important; }
+
+/* student list */
+.mypath-student-list li { margin-bottom: 8px; }
+.mypath-student-list img { width: 50px; }

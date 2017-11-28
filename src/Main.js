@@ -3,8 +3,8 @@ import { Switch, Route } from 'react-router-dom'
 import Home from './Home'
 import Plan from './Plan'
 import Courses from './Courses'
-import Register from './Register'
-import Track from './Track'
+import Registration from './Registration'
+import Audit from './Audit'
 import Adviser from './Adviser'
 
 // The Main component renders one of the three provided
@@ -18,8 +18,8 @@ const Main = () => (
       <Route exact path='/' component={Home}/>
       <Route path='/plan' component={Plan}/>
       <Route path='/courses' component={Courses}/>
-      <Route path='/register' component={Register}/>
-      <Route path='/track' component={Track}/>
+      <Route path='/registration' component={Registration}/>
+      <Route path='/audit' component={Audit}/>
       <Route path='/adviser' component={Adviser}/>
     </Switch>
   </main>

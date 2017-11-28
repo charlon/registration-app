@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Register = () => (
+const Registration = () => (
     <div role="main">
 
       <div className="jumbotron">
         <div className="container">
-        <h1 className="display-3">Register</h1>
+        <h1 className="display-3">Registration</h1>
             <p className="lead">Get the courses you need.</p>
             <hr className="my-4" />
             <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
@@ -41,4 +41,4 @@ const Register = () => (
 )
 
 
-export default Register;
+export default Registration;

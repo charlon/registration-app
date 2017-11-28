@@ -8,7 +8,6 @@ const Plan = () => (
         <h1 className="display-3">Plan</h1>
             <p className="lead">Use a template or develop your own plan to graduation.</p>
             <hr className="my-4" />
-
             <h2>Winter Quarter 2018</h2>
             <p>You currently do not have anything planned. </p>
             <a className="btn btn-outline-primary btn-lg" href="/courses" role="button">Add Courses</a>

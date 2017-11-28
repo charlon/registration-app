@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { Grid, Navbar, Jumbotron, Button } from 'react-bootstrap';
 
 import Header from './Header'
