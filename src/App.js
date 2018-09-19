@@ -1,5 +1,4 @@
 import React from 'react';
-import { Grid, Navbar, Jumbotron, Button } from 'react-bootstrap';
 
 import Header from './Header'
 import Main from './Main'
