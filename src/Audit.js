@@ -5,8 +5,8 @@ const Audit = () => (
 
       <div className="jumbotron">
         <div className="container">
-        <h1 className="display-3">Audit</h1>
-            <p className="lead">Know where you stand.</p>
+        <h1 className="display-3">Plan Audit</h1>
+            <p className="lead">Know where you stand. (AYV + Plan Audit)</p>
             <hr className="my-4" />
             <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
             <p className="lead">

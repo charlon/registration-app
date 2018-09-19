@@ -16,6 +16,13 @@ const Courses = () => (
 
       <div className="container">
         <div className="row">
+            <div className="col-md-12">
+                <h2>Results</h2>
+                <p><a href="/courses/math-124">Math 124</a></p>
+            </div>
+        </div>
+        <hr/>
+        <div className="row">
           <div className="col-md-4">
             <h2>Colleges, Schools and Programs</h2>
             <p>Explore courses by College metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
